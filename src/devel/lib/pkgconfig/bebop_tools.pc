@@ -1,0 +1,8 @@
+prefix=/home/jesper/bebop_ws/src/devel
+
+Name: bebop_tools
+Description: Description of bebop_tools
+Version: 0.7.0
+Cflags: 
+Libs: -L/home/jesper/bebop_ws/src/devel/lib 
+Requires: bebop_msgs
